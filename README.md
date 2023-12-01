@@ -119,5 +119,5 @@
 </details>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirvelikiyy&" alt="kirvelikiyy" /></p>
-<p><img align="center" src="https://www.codewars.com/users/KirVelikiy/badges/large" alt="kirvelikiyy"/></p>
+<p><img align="center" src="https://www.codewars.com/users/KirVelikiy/badges/large?theme=light" alt="kirvelikiyy"/></p>
 
